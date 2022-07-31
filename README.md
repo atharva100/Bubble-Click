@@ -1,4 +1,4 @@
-# Bubbles
+# BubbleClick
 Experimental animation of creating bubbles in p5 js
 
 They pop out wherever you click....
